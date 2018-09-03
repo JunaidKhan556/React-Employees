@@ -1,0 +1,38 @@
+#login{
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 5%;
+  background-color:rgba(0,0,0,0.9);
+  border-radius:30px; 
+  height: 500px
+}
+#logintext{
+  margin-top: 60px;
+  font-size: 60px;
+  color:whitesmoke;
+  border-radius: 5px
+}
+#showUsers{
+  margin-top: 40px;
+}
+#table{
+  color: whitesmoke;
+  margin-top: 30px;
+  background-color:rgba(0,0,0,0.9);
+}
+#userForm{
+  margin-top: 70px;
+  color: whitesmoke;
+  padding: 25px
+}
+#button{
+  display: inline-block;
+  margin-left: 81%;
+}
+#form{
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: rgba(0,0,0,0.9);
+  height: 500px;
+  border-radius: 20px 
+}
